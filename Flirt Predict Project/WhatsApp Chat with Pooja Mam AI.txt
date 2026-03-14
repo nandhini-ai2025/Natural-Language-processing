@@ -1,0 +1,227 @@
+24/02/26, 7:29 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*.
+24/02/26, 7:31 pm - Nandh: 🚀 Deep Learning Project – Fruit Image Classification 🍎🍌🍊
+
+I’m excited to share my Deep Learning project: Fruit Image Classification using CNN and Transfer Learning (VGG16).
+
+This model can predict fruits such as Apple, Banana, Orange, and Mixed fruits from an input image and display the confidence percentage.
+
+🎥 Demo video attached below showing the prediction process in action.
+
+🔗 Github link:
+
+🔹 Built using TensorFlow & Keras
+🔹 Applied Transfer Learning (VGG16)
+🔹 Implemented image preprocessing & feature extraction
+🔹 Developed a simple GUI for image-based prediction
+
+Through this project, I gained strong practical knowledge in:
+
+✔ Computer Vision workflows
+✔ Feature extraction using pre-trained models
+✔ Model prediction & confidence analysis
+✔ End-to-end Deep Learning pipeline
+This project strengthened my confidence in building real-world AI solutions.
+
+Looking forward to exploring more advanced Deep Learning applications 
+
+🚀
+#DeepLearning #MachineLearning #TensorFlow #AI #ComputerVision #WomenInTech #LearningJourney
+25/02/26, 5:39 am - Nandh: <Media omitted>
+25/02/26, 10:22 am - Pooja Mam AI: <Media omitted>
+25/02/26, 11:24 am - Nandh: Yes mam definitely
+25/02/26, 11:25 am - Nandh: Content slunga mam
+25/02/26, 11:26 am - Pooja Mam AI: <Media omitted>
+25/02/26, 11:49 am - Nandh: 👍okay mam thank you
+25/02/26, 11:49 am - Pooja Mam AI: Welcome mam👍
+26/02/26, 2:22 pm - Nandh: <Media omitted>
+26/02/26, 2:33 pm - Pooja Mam AI: <Media omitted>
+26/02/26, 2:50 pm - Nandh: Long time yadukuthu mam
+26/02/26, 2:50 pm - Nandh: Only 2 hours time for my study (baby sleeping time)
+26/02/26, 2:51 pm - Nandh: Again tomorrow tha record Panna mudium mam <This message was edited>
+26/02/26, 2:51 pm - Pooja Mam AI: Okay mam
+26/02/26, 2:52 pm - Nandh: Ethu okay va iruntha  upload pannalama mam illa confirm athu add pannanuma mam
+26/02/26, 2:52 pm - Pooja Mam AI: <Media omitted>
+26/02/26, 2:52 pm - Nandh: Okay mam
+26/02/26, 2:53 pm - Pooja Mam AI: <Media omitted>
+26/02/26, 2:53 pm - Pooja Mam AI: <Media omitted>
+26/02/26, 2:53 pm - Pooja Mam AI: <Media omitted>
+26/02/26, 2:53 pm - Nandh: . Using GPT mam
+26/02/26, 2:54 pm - Pooja Mam AI: 👍👍👍👍👍
+26/02/26, 2:54 pm - Pooja Mam AI: <Media omitted>
+26/02/26, 2:54 pm - Nandh: Okay mam
+26/02/26, 2:55 pm - Pooja Mam AI: 👍👍👍
+26/02/26, 5:54 pm - Pooja Mam AI: *🎉 Congratulations! 🎉*
+
+You have been selected as one of the Top Performers of the Week for your *consistent efforts, strong dedication, and outstanding learning progress. 🌟*
+Your commitment continues to inspire — *great job and keep going!* 💪✨
+
+To celebrate your achievement, we would love to feature you in our *LinkedIn community* as well as on *Mrs. Ramisha Rani’s LinkedIn profile.*
+
+Kindly confirm your consent to share your *LinkedIn profile link* as part of the announcement.
+
+*We’re excited to highlight your success — waiting for your confirmation! 🚀😊*
+26/02/26, 5:55 pm - Pooja Mam AI: <Media omitted>
+26/02/26, 6:22 pm - Nandh: Thank You mam 👍
+27/02/26, 2:12 pm - Nandh: You deleted this message
+27/02/26, 2:15 pm - Nandh: <Media omitted>
+27/02/26, 2:18 pm - Pooja Mam AI: <Media omitted>
+27/02/26, 2:21 pm - Nandh: 👍
+27/02/26, 2:46 pm - Nandh: <Media omitted>
+27/02/26, 3:01 pm - Pooja Mam AI: Super mam
+27/02/26, 3:01 pm - Pooja Mam AI: This message was deleted
+27/02/26, 3:01 pm - Pooja Mam AI: <Media omitted>
+27/02/26, 3:01 pm - Nandh: Yes mam
+27/02/26, 4:44 pm - Nandh: Post pannatuma mam now
+27/02/26, 4:44 pm - Nandh: 🚀 Deep Learning Project – Fruit Image Classification 🍎🍌🍊
+
+I’m excited to share my Deep Learning project: Fruit Image Classification using CNN and Transfer Learning (VGG16).
+
+This model can predict fruits such as Apple, Banana, Orange, and Mixed fruits from an input image and display the confidence percentage.
+
+🎥 Demo video attached below showing the prediction process in action.
+
+🔗 Github link:
+
+🔹 Built using TensorFlow & Keras
+🔹 Applied Transfer Learning (VGG16)
+🔹 Implemented image preprocessing & feature extraction
+🔹 Developed a simple GUI for image-based prediction
+
+Through this project, I gained strong practical knowledge in:
+
+✔ Computer Vision workflows
+✔ Feature extraction using pre-trained models
+✔ Model prediction & confidence analysis
+✔ End-to-end Deep Learning pipeline
+This project strengthened my confidence in building real-world AI solutions.
+
+Looking forward to exploring more advanced Deep Learning applications 
+
+🚀
+#DeepLearning #MachineLearning #TensorFlow #AI #ComputerVision #WomenInTech #LearningJourney
+27/02/26, 5:02 pm - Pooja Mam AI: <Media omitted>
+27/02/26, 5:04 pm - Nandh: Everytime post panrappo Ramisha mam and mentor tag pannuvom mam
+27/02/26, 5:04 pm - Nandh: Now ?
+27/02/26, 5:06 pm - Pooja Mam AI: Yes mam
+27/02/26, 5:06 pm - Pooja Mam AI: Yes mam
+27/02/26, 5:06 pm - Nandh: Unga id mam tag pannatuma mam
+27/02/26, 5:06 pm - Pooja Mam AI: <Media omitted>
+27/02/26, 5:06 pm - Pooja Mam AI: Yes mam
+27/02/26, 5:06 pm - Pooja Mam AI: 👍👍
+27/02/26, 5:07 pm - Nandh: Name mam
+27/02/26, 5:07 pm - Nandh: Yes mam sure
+27/02/26, 5:08 pm - Pooja Mam AI: Pooja babu mam
+27/02/26, 5:09 pm - Nandh: Okay mam
+27/02/26, 6:02 pm - Nandh: <Media omitted>
+27/02/26, 6:02 pm - Nandh: I'd correct ah mam
+27/02/26, 6:02 pm - Pooja Mam AI: Yes mam👍👍👍
+27/02/26, 6:03 pm - Nandh: Thank u so much mam 👍
+27/02/26, 6:03 pm - Nandh: Okay mam
+27/02/26, 6:25 pm - Pooja Mam AI: Welcome mam☺️☺️
+27/02/26, 6:39 pm - Nandh: https://www.linkedin.com/posts/nandhini-shanmugavel-330a22224_deeplearning-machinelearning-tensorflow-activity-7433130020040237057-8z1B?utm_source=share&utm_medium=member_android&rcm=ACoAADhkaVQBQQTKfwqgZr69k-xlqoXLcJwzS6M
+27/02/26, 11:19 pm - Pooja Mam AI: Super mam
+28/02/26, 6:21 am - Nandh: Thank You mam
+28/02/26, 11:13 am - Nandh: Thank u mam
+28/02/26, 11:14 am - Pooja Mam AI: Welcome mam🤝
+03/03/26, 12:14 pm - Pooja Mam AI: *Email:* nandhuvarts@gmail.com
+*Name:* Nandhini S
+*Mobile Number:* 9489590134
+*Current Module:* Week 12: Time Series Analysis
+*Last Studied:* This week
+*Last Date:* Tue Mar 03 2026 00:00:00 GMT+0530 (India Standard Time)
+*Feedback:* Yes I can understand very well.
+*Anything:* Happy to complete my Deep Learning project on Fruit Image Prediction with Pooja Mam’s support. Grateful for the guidance! Now starting my journey in Time Series Analysis. 
+*Mentor Name:* 7305067047(Ms.Pooja)
+*Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes)
+03/03/26, 12:14 pm - Pooja Mam AI: <Media omitted>
+03/03/26, 1:21 pm - Nandh: 3 badges Unlocked mam
+03/03/26, 1:21 pm - Nandh: Next aim 4th badge mam
+03/03/26, 1:21 pm - Pooja Mam AI: Okay mam
+03/03/26, 1:21 pm - Pooja Mam AI: Okay super mam
+03/03/26, 1:21 pm - Nandh: Today morning la irunthu Time series analysis start panni iruken mam
+03/03/26, 1:22 pm - Nandh: I will try my best to complete this week mam
+03/03/26, 1:23 pm - Pooja Mam AI: Okay mam super
+04/03/26, 3:19 pm - Nandh: https://github.com/nandhini-ai2025/Time-Series-Analysis/tree/5245a7d602b163d6618a1a312da59ffac7e74fd4/TS_EDA
+04/03/26, 3:21 pm - Pooja Mam AI: <Media omitted>
+04/03/26, 3:21 pm - Nandh: okay mam
+04/03/26, 3:33 pm - Nandh: https://github.com/nandhini-ai2025/Time-Series-Analysis/tree/68fc0d26a1484b145bb9351dc7219326d6f6a6a2/TS-Stationarity
+04/03/26, 3:38 pm - Pooja Mam AI: <Media omitted>
+04/03/26, 3:38 pm - Nandh: 👍
+05/03/26, 2:42 pm - Nandh: https://github.com/nandhini-ai2025/Time-Series-Analysis/blob/b0d9bde7bd2d68e1af4503b69ee2d223d070a442/TS-Model/AR%20Ass.ipynb
+05/03/26, 2:45 pm - Pooja Mam AI: <Media omitted>
+05/03/26, 2:47 pm - Nandh: okay mam
+05/03/26, 3:12 pm - Nandh: https://github.com/nandhini-ai2025/Time-Series-Analysis/blob/72b0a12e1b349f99aa31e8f327773b037dfa5d06/TS-Model/MA%20Ass.ipynb
+05/03/26, 3:13 pm - Pooja Mam AI: <Media omitted>
+05/03/26, 3:13 pm - Nandh: okay mam Thank you
+05/03/26, 3:14 pm - Pooja Mam AI: Welcome mam
+06/03/26, 10:32 am - Pooja Mam AI: *🎉 Heartfelt Congratulations, Nandhini! 🎊*
+
+For the *2nd consecutive week* , you have been recognized as one of our *Top Performers of the Week* — a truly inspiring achievement! 🌟
+
+From day one, your journey has been driven by *strong consistency, sincere dedication, and disciplined learning* . Your focus on building AI Learning clearly reflects in your steady progress. 💪✨
+
+Week after week, you prove that *true success comes from consistency and commitment* , motivating everyone around you. 🌱🚀
+
+*We are extremely proud of your journey. Keep learning, keep growing, and keep shining!* 🌟😊
+06/03/26, 10:39 am - Nandh: Thank you so much mam 👍
+06/03/26, 10:39 am - Nandh: Special Thanks to you mam 🙏
+06/03/26, 10:45 am - Pooja Mam AI: <Media omitted>
+06/03/26, 10:45 am - Pooja Mam AI: <Media omitted>
+06/03/26, 10:46 am - Nandh: Okay mam Thank you
+06/03/26, 10:46 am - Pooja Mam AI: Welcome mam 👍👍👍
+06/03/26, 1:16 pm - Nandh: https://github.com/nandhini-ai2025/Time-Series-Analysis/blob/9ada384a8a1da88f0c80e771b7a0b37409d24993/TS-Model/ARMA%20Ass.ipynb
+06/03/26, 1:20 pm - Pooja Mam AI: <Media omitted>
+06/03/26, 1:22 pm - Nandh: https://github.com/nandhini-ai2025/Time-Series-Analysis/blob/cc60252f4f768c0cc11abe580049a29d778026b0/TS-Model/ARIMA%20ASS.ipynb
+06/03/26, 1:27 pm - Pooja Mam AI: <Media omitted>
+06/03/26, 1:29 pm - Nandh: Okay mam Thank you
+06/03/26, 1:30 pm - Pooja Mam AI: Welcome mam👍👍👍
+06/03/26, 2:19 pm - Nandh: https://github.com/nandhini-ai2025/Time-Series-Analysis/tree/4afb83123494bb58edf7b4c3902d8be2e5bb0db9/TS-Model
+06/03/26, 2:19 pm - Nandh: TS - Total Model completed mam
+06/03/26, 2:23 pm - Pooja Mam AI: <Media omitted>
+06/03/26, 2:24 pm - Nandh: Okay mam Time series Analysis assignment model completed mam
+06/03/26, 2:29 pm - Pooja Mam AI: <Media omitted>
+06/03/26, 2:31 pm - Nandh: 👍
+06/03/26, 5:55 pm - Nandh: 👍
+10/03/26, 12:54 pm - Pooja Mam AI: *Email:* nandhuvarts@gmail.com
+*Name:* S. Nandhini 
+*Mobile Number:* 9489590134
+*Current Module:* Week-13 Natural Language Processing
+*Last Studied:* This week
+*Last Date:* Tue Mar 10 2026 00:00:00 GMT+0530 (India Standard Time)
+*Feedback:* Yes I can understand very well.
+*Anything:* Last week, Pooja mam asked us to set a goal to complete Time Series Analysis within one week. This made the task more interesting and motivated me to complete it. Thank you, Pooja mam. Now I am starting NLP.
+*Mentor Name:* 7305067047(Ms.Pooja)
+*Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes)
+10/03/26, 12:54 pm - Pooja Mam AI: <Media omitted>
+10/03/26, 1:02 pm - Nandh: <Media omitted>
+10/03/26, 1:04 pm - Pooja Mam AI: Okay mam👍👍👍
+10/03/26, 2:35 pm - Nandh: https://github.com/nandhini-ai2025/Natural-Language-processing/blob/619565ce1440e5bfbcc5c3051638ff9e42c04cd5/Fake%20News%20Prediction/Fake%20News/Fake%20News%20Ass.ipynb
+10/03/26, 2:48 pm - Pooja Mam AI: <Media omitted>
+10/03/26, 3:13 pm - Nandh: okay mam
+10/03/26, 3:16 pm - Pooja Mam AI: <Media omitted>
+10/03/26, 3:17 pm - Nandh: Thank u mam
+11/03/26, 1:43 pm - Nandh: https://github.com/nandhini-ai2025/Natural-Language-processing/tree/a5df5c304176734a2a83bc818bec067a9fa8b3df/WhatsApp%20Chat
+11/03/26, 2:21 pm - Pooja Mam AI: <Media omitted>
+11/03/26, 2:23 pm - Nandh: Okay mam Thank you
+11/03/26, 6:27 pm - Nandh: Hi mam
+11/03/26, 6:27 pm - Nandh: Good evening
+11/03/26, 6:28 pm - Nandh: Interview session plan pannalama mam
+11/03/26, 6:32 pm - Pooja Mam AI: Sure mam🥳🥳
+11/03/26, 6:32 pm - Pooja Mam AI: <Media omitted>
+11/03/26, 6:33 pm - Nandh: Saturday mam afternoon 1 to 2
+11/03/26, 6:34 pm - Pooja Mam AI: <Media omitted>
+11/03/26, 6:35 pm - Nandh: Okay mam next week pannikalam mam
+11/03/26, 6:35 pm - Pooja Mam AI: Okay mam
+11/03/26, 6:35 pm - Nandh: Topic mam
+11/03/26, 6:36 pm - Pooja Mam AI: <Media omitted>
+11/03/26, 6:36 pm - Nandh: Python mattum tha mam interview and set question complete panni iruken set 4 and set 5
+11/03/26, 6:36 pm - Nandh: 2 mock interviews
+11/03/26, 6:40 pm - Pooja Mam AI: <Media omitted>
+11/03/26, 6:42 pm - Nandh: Set questions irukum thana mam ? Or 1 to 1 question session
+11/03/26, 6:49 pm - Pooja Mam AI: <Media omitted>
+11/03/26, 6:50 pm - Nandh: Okay mam
+11/03/26, 6:50 pm - Nandh: Python 
+Machine learning 
+Data science
+11/03/26, 6:51 pm - Pooja Mam AI: <Media omitted>
+11/03/26, 7:17 pm - Nandh: 👍
